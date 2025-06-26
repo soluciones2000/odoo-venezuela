@@ -7,7 +7,11 @@
     "author": "binaural-dev",
     "website": "https://www.binauraldev.com",
     "category": "Stock Account",
+<<<<<<< HEAD
     "version": "17.0.0.0.21",
+=======
+    "version": "17.0.0.0.22",
+>>>>>>> 854c564fcbc2760b7965db8a9daa87c7f1b7cfb4
     "depends": [
         "l10n_ve_stock",
         "l10n_ve_invoice",
@@ -16,6 +20,10 @@
         "web",
     ],
     "data": [
+<<<<<<< HEAD
+=======
+        "security/res_groups.xml",
+>>>>>>> 854c564fcbc2760b7965db8a9daa87c7f1b7cfb4
         "security/ir.model.access.csv",
         "security/res_groups.xml",
         "data/dispatch_guide_paperformat.xml",
